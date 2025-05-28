@@ -1,47 +1,47 @@
 import 'package:flutter/material.dart';
-import '../model.dart';
 
-class ProductBox extends StatelessWidget {
-  const ProductBox({super.key, required this.data, required this.index});
-
-  final data;
-  final int index;
-
-  @override
-  Widget build(BuildContext context) {
-    // final item = data.english[index];
-
-    return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+Widget productBox({required data, required int index}) {
+  return Padding(
+    padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+    child: Container(
+      decoration: BoxDecoration(
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(16),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.grey.withOpacity(0.15),
+            blurRadius: 12,
+            offset: const Offset(0, 4),
+          ),
+        ],
+      ),
       child: Row(
         children: [
           Expanded(
-            child: Container(
-              height: 120,
-              padding: const EdgeInsets.all(10),
-              decoration: BoxDecoration(
-                color: Colors.grey.shade100,
-                borderRadius: BorderRadius.circular(12),
-                boxShadow: [
-                  BoxShadow(
-                    color: Colors.black.withOpacity(0.05),
-                    blurRadius: 4,
-                    offset: const Offset(0, 2),
-                  ),
-                ],
-              ),
+            child: Padding(
+              padding: const EdgeInsets.all(16),
               child: Row(
                 children: [
-                  ClipRRect(
-                    borderRadius: BorderRadius.circular(8),
-                    child: Image.network(
-                      data.img,
-                      height: 100,
-                      width: 100,
-                      // fit: BoxFit.cover,
+                  Container(
+                    decoration: BoxDecoration(
+                      borderRadius: BorderRadius.circular(12),
+                      gradient: LinearGradient(
+                        colors: [Colors.grey[100]!, Colors.grey[50]!],
+                        begin: Alignment.topLeft,
+                        end: Alignment.bottomRight,
+                      ),
+                    ),
+                    child: ClipRRect(
+                      borderRadius: BorderRadius.circular(12),
+                      child: Image.network(
+                        data.img,
+                        height: 90,
+                        width: 90,
+                        fit: BoxFit.cover,
+                      ),
                     ),
                   ),
-                  const SizedBox(width: 12),
+                  const SizedBox(width: 16),
                   Expanded(
                     child: Column(
                       mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -50,38 +50,44 @@ class ProductBox extends StatelessWidget {
                         Text(
                           data.name,
                           style: const TextStyle(
-                            fontSize: 18,
-                            fontWeight: FontWeight.w600,
+                            fontSize: 17,
+                            fontWeight: FontWeight.bold,
+                            color: Colors.black87,
                           ),
                           maxLines: 1,
                           overflow: TextOverflow.ellipsis,
                         ),
+                        const SizedBox(height: 4),
                         Text(
                           data.description,
-                          style: const TextStyle(
-                            fontSize: 14,
-                            color: Colors.black54,
+                          style: TextStyle(
+                            fontSize: 13,
+                            color: Colors.grey[600],
+                            height: 1.3,
                           ),
-                          maxLines: 1,
+                          maxLines: 2,
                           overflow: TextOverflow.ellipsis,
                         ),
+                        const SizedBox(height: 8),
                         Text(
-                          "₹${data.price}/-",
+                          "₹${data.price}",
                           style: const TextStyle(
-                            fontSize: 16,
+                            fontSize: 18,
                             fontWeight: FontWeight.bold,
-                            color: Colors.green,
+                            color: Colors.teal,
                           ),
                         ),
-                        Text(
-                          data.priceTagline,
-                          style: const TextStyle(
-                            fontSize: 12,
-                            color: Colors.grey,
+                        if (data.priceTagline.isNotEmpty)
+                          Text(
+                            data.priceTagline,
+                            style: TextStyle(
+                              fontSize: 11,
+                              color: Colors.grey[500],
+                              fontStyle: FontStyle.italic,
+                            ),
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
                           ),
-                          maxLines: 1,
-                          overflow: TextOverflow.ellipsis,
-                        ),
                       ],
                     ),
                   ),
@@ -89,24 +95,41 @@ class ProductBox extends StatelessWidget {
               ),
             ),
           ),
-          const SizedBox(width: 8),
-          InkWell(
-            onTap: () {
-              // Add to cart logic here
-            },
-            borderRadius: BorderRadius.circular(10),
-            child: Container(
-              height: 120,
-              width: 50,
-              decoration: BoxDecoration(
-                color: Colors.green.shade100,
-                borderRadius: BorderRadius.circular(10),
+          Container(
+            margin: const EdgeInsets.only(right: 16),
+            child: InkWell(
+              onTap: () {
+                // Add to cart logic here
+              },
+              borderRadius: BorderRadius.circular(16),
+              child: Container(
+                height: 60,
+                width: 60,
+                decoration: BoxDecoration(
+                  gradient: const LinearGradient(
+                    colors: [Colors.teal, Color(0xFF00695C)],
+                    begin: Alignment.topLeft,
+                    end: Alignment.bottomRight,
+                  ),
+                  borderRadius: BorderRadius.circular(16),
+                  boxShadow: [
+                    BoxShadow(
+                      color: Colors.teal.withOpacity(0.3),
+                      blurRadius: 8,
+                      offset: const Offset(0, 3),
+                    ),
+                  ],
+                ),
+                child: const Icon(
+                  Icons.add_shopping_cart,
+                  size: 24,
+                  color: Colors.white,
+                ),
               ),
-              child: const Icon(Icons.add, size: 32, color: Colors.green),
             ),
           ),
         ],
       ),
-    );
-  }
+    ),
+  );
 }

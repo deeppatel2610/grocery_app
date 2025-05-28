@@ -12,8 +12,11 @@
         "meggi",
         "maggie",
         "noodles",
-        "nudal"
-      ]
+        "nudal",
+        "instant food"
+      ],
+      "quantity": 1,
+      "category": "instant food"
     },
     {
       "id": 2,
@@ -26,8 +29,11 @@
         "milk",
         "dudh",
         "amul gold",
-        "gold"
-      ]
+        "gold",
+        "dairy"
+      ],
+      "quantity": 1,
+      "category": "dairy"
     },
     {
       "id": 3,
@@ -40,8 +46,11 @@
         "salt",
         "namak",
         "tata",
-        "mithu"
-      ]
+        "mithu",
+        "spices & condiments"
+      ],
+      "quantity": 1,
+      "category": "spices & condiments"
     },
     {
       "id": 4,
@@ -53,8 +62,11 @@
       "tags": [
         "oil",
         "sunflower",
-        "fortune"
-      ]
+        "fortune",
+        "cooking essentials"
+      ],
+      "quantity": 1,
+      "category": "cooking essentials"
     },
     {
       "id": 5,
@@ -66,8 +78,11 @@
       "tags": [
         "atta",
         "wheat",
-        "flour"
-      ]
+        "flour",
+        "grains & flour"
+      ],
+      "quantity": 1,
+      "category": "grains & flour"
     },
     {
       "id": 6,
@@ -79,8 +94,11 @@
       "tags": [
         "toothpaste",
         "colgate",
-        "dental"
-      ]
+        "dental",
+        "personal care"
+      ],
+      "quantity": 1,
+      "category": "personal care"
     },
     {
       "id": 7,
@@ -94,8 +112,11 @@
         "dove",
         "beauty",
         "shabu",
-        "habu"
-      ]
+        "habu",
+        "personal care"
+      ],
+      "quantity": 1,
+      "category": "personal care"
     },
     {
       "id": 8,
@@ -108,7 +129,9 @@
         "biscuits",
         "parle",
         "snacks"
-      ]
+      ],
+      "quantity": 1,
+      "category": "snacks"
     },
     {
       "id": 9,
@@ -121,8 +144,11 @@
         "tea",
         "chai",
         "red label",
-        "red"
-      ]
+        "red",
+        "beverages"
+      ],
+      "quantity": 1,
+      "category": "beverages"
     },
     {
       "id": 10,
@@ -134,8 +160,11 @@
       "tags": [
         "coffee",
         "nescafe",
-        "instant"
-      ]
+        "instant",
+        "beverages"
+      ],
+      "quantity": 1,
+      "category": "beverages"
     },
     {
       "id": 11,
@@ -148,7 +177,9 @@
         "namkeen",
         "snacks",
         "haldiram"
-      ]
+      ],
+      "quantity": 1,
+      "category": "snacks"
     },
     {
       "id": 12,
@@ -162,8 +193,11 @@
         "handwash",
         "soap",
         "shabu",
-        "habu"
-      ]
+        "habu",
+        "personal care"
+      ],
+      "quantity": 1,
+      "category": "personal care"
     },
     {
       "id": 13,
@@ -175,8 +209,11 @@
       "tags": [
         "comfort",
         "fabric",
-        "softener"
-      ]
+        "softener",
+        "laundry"
+      ],
+      "quantity": 1,
+      "category": "laundry"
     },
     {
       "id": 14,
@@ -188,8 +225,11 @@
       "tags": [
         "floor",
         "cleaner",
-        "lizol"
-      ]
+        "lizol",
+        "home cleaning"
+      ],
+      "quantity": 1,
+      "category": "home cleaning"
     },
     {
       "id": 15,
@@ -202,8 +242,11 @@
         "ketchup",
         "sauce",
         "kissan",
-        "shosh"
-      ]
+        "shosh",
+        "spices & condiments"
+      ],
+      "quantity": 1,
+      "category": "spices & condiments"
     },
     {
       "id": 16,
@@ -215,8 +258,11 @@
       "tags": [
         "detergent",
         "surf",
-        "excel"
-      ]
+        "excel",
+        "laundry"
+      ],
+      "quantity": 1,
+      "category": "laundry"
     },
     {
       "id": 17,
@@ -228,8 +274,11 @@
       "tags": [
         "cookies",
         "biscuits",
-        "good day"
-      ]
+        "good day",
+        "snacks"
+      ],
+      "quantity": 1,
+      "category": "snacks"
     },
     {
       "id": 18,
@@ -243,8 +292,11 @@
         "moong",
         "pulses",
         "mung",
-        "mung dal"
-      ]
+        "mung dal",
+        "grains & pulses"
+      ],
+      "quantity": 1,
+      "category": "grains & pulses"
     },
     {
       "id": 19,
@@ -257,8 +309,11 @@
         "rice",
         "basmati",
         "grains",
-        "chokha"
-      ]
+        "chokha",
+        "grains & pulses"
+      ],
+      "quantity": 1,
+      "category": "grains & pulses"
     },
     {
       "id": 20,
@@ -270,8 +325,11 @@
       "tags": [
         "juice",
         "real",
-        "fruit"
-      ]
+        "fruit",
+        "beverages"
+      ],
+      "quantity": 1,
+      "category": "beverages"
     }
   ],
   "hindi": [
@@ -281,14 +339,17 @@
       "description": "नेस्ले, इंस्टेंट नूडल्स",
       "img": "https://drive.google.com/uc?export=view&id=1YIIbYf2pibS4X6Fm8EAoGEFZ-2H2mWFx",
       "price": 14.0,
-      "price-tagline": "प्रति मात्रा, 48 ग्राम",
+      "price-tagline": "प्रति इकाई, 48 ग्राम",
       "tags": [
-        "maggi",
-        "meggi",
-        "maggie",
-        "noodles",
-        "nudal"
-      ]
+        "मैगी",
+        "मेगी",
+        "माग्गी",
+        "नूडल्स",
+        "नूडल",
+        "इंस्टेंट फूड"
+      ],
+      "quantity": 1,
+      "category": "इंस्टेंट फूड"
     },
     {
       "id": 2,
@@ -296,108 +357,132 @@
       "description": "अमूल, उच्च वसा वाला शुद्ध दूध",
       "img": "https://drive.google.com/uc?export=view&id=1jmZT2ll43UrQ97VGIZK2XbEmhYKhriAT",
       "price": 36.0,
-      "price-tagline": "प्रति मात्रा, 500 मिली",
+      "price-tagline": "प्रति इकाई, 500 मिलीलीटर",
       "tags": [
-        "milk",
-        "dudh",
-        "amul gold",
-        "gold"
-      ]
+        "दूध",
+        "दूध",
+        "अमूल गोल्ड",
+        "गोल्ड",
+        "डेयरी"
+      ],
+      "quantity": 1,
+      "category": "डेयरी"
     },
     {
       "id": 3,
       "name": "टाटा नमक",
-      "description": "खाने का आयोडीन युक्त नमक",
+      "description": "पकाने के लिए आयोडीन युक्त नमक",
       "img": "https://drive.google.com/uc?export=view&id=1pqYmyT-miryMA7QguWPekizcMwwcBcFb",
       "price": 20.0,
-      "price-tagline": "प्रति मात्रा, 1 किग्रा",
+      "price-tagline": "प्रति इकाई, 1 किलो",
       "tags": [
-        "salt",
-        "namak",
-        "tata",
-        "mithu"
-      ]
+        "नमक",
+        "नमक",
+        "टाटा",
+        "मिठु",
+        "मसाले और कंडिमेंट्स"
+      ],
+      "quantity": 1,
+      "category": "मसाले और कंडिमेंट्स"
     },
     {
       "id": 4,
-      "name": "फॉर्च्यून ऑयल",
-      "description": "रिफाइंड सूरजमुखी तेल",
+      "name": "फॉर्च्यून तेल",
+      "description": "शुद्ध सूरजमुखी तेल",
       "img": "https://drive.google.com/uc?export=view&id=1nxHrEX1UktkEfwupWdcKHIhwMog7VAwv",
       "price": 130.0,
-      "price-tagline": "प्रति मात्रा, 1 लीटर",
+      "price-tagline": "प्रति इकाई, 1 लीटर",
       "tags": [
-        "oil",
-        "sunflower",
-        "fortune"
-      ]
+        "तेल",
+        "सूरजमुखी",
+        "फॉर्च्यून",
+        "खाना पकाने के आवश्यक सामान"
+      ],
+      "quantity": 1,
+      "category": "खाना पकाने के आवश्यक सामान"
     },
     {
       "id": 5,
-      "name": "आशिर्वाद आटा",
-      "description": "चक्का गेहूं का आटा",
+      "name": "आशीर्वाद आटा",
+      "description": "साबुत गेहूं का आटा",
       "img": "https://drive.google.com/uc?export=view&id=1uIelN9mHC5mosNARqBf7H55M3cBD8uP6",
       "price": 250.0,
-      "price-tagline": "प्रति मात्रा, 5 किग्रा",
+      "price-tagline": "प्रति इकाई, 5 किलो",
       "tags": [
-        "atta",
-        "wheat",
-        "flour"
-      ]
+        "आटा",
+        "गेहूं",
+        "आटा",
+        "अनाज और आटा"
+      ],
+      "quantity": 1,
+      "category": "अनाज और आटा"
     },
     {
       "id": 6,
       "name": "कोलगेट टूथपेस्ट",
-      "description": "डेंटल क्रीम टूथपेस्ट",
+      "description": "दंत क्रीम टूथपेस्ट",
       "img": "https://drive.google.com/uc?export=view&id=1gzG4EoOAUq3BKct72SH05jOdBjoIVslf",
       "price": 45.0,
-      "price-tagline": "प्रति मात्रा, 100 ग्राम",
+      "price-tagline": "प्रति इकाई, 100 ग्राम",
       "tags": [
-        "toothpaste",
-        "colgate",
-        "dental"
-      ]
+        "टूथपेस्ट",
+        "कोलगेट",
+        "दंत",
+        "व्यक्तिगत देखभाल"
+      ],
+      "quantity": 1,
+      "category": "व्यक्तिगत देखभाल"
     },
     {
       "id": 7,
       "name": "डव साबुन",
-      "description": "मॉइस्चराइज़िंग ब्यूटी साबुन",
+      "description": "मॉइस्चराइजिंग ब्यूटी साबुन",
       "img": "https://drive.google.com/uc?export=view&id=1E4wc4ynV55W1Diz3jL8Da2LiHX-Rhjad",
       "price": 38.0,
-      "price-tagline": "प्रति मात्रा, 75 ग्राम",
+      "price-tagline": "प्रति इकाई, 75 ग्राम",
       "tags": [
-        "soap",
-        "dove",
-        "beauty",
-        "shabu",
-        "habu"
-      ]
+        "साबुन",
+        "डव",
+        "सौंदर्य",
+        "शाबु",
+        "हाबु",
+        "व्यक्तिगत देखभाल"
+      ],
+      "quantity": 1,
+      "category": "व्यक्तिगत देखभाल"
     },
     {
       "id": 8,
-      "name": "पारले-जी बिस्किट",
-      "description": "ग्लूकोज़ बिस्किट पैक",
+      "name": "पार्ले-जी बिस्कुट",
+      "description": "ग्लूकोज बिस्कुट पैक",
       "img": "https://drive.google.com/uc?export=view&id=1LZLRAiYguqeF7nptP_-T6uspw4lW1eiw",
       "price": 10.0,
-      "price-tagline": "प्रति मात्रा, 100 ग्राम",
+      "price-tagline": "प्रति इकाई, 100 ग्राम",
       "tags": [
-        "biscuits",
-        "parle",
-        "snacks"
-      ]
+        "बिस्कुट",
+        "पार्ले",
+        "नाश्ता",
+        "नाश्ते"
+      ],
+      "quantity": 1,
+      "category": "नाश्ते"
     },
     {
       "id": 9,
       "name": "रेड लेबल चाय",
-      "description": "ब्रुक बॉन्ड ढीली चाय",
+      "description": "ब्रूक बॉन्ड लूज़ टी",
       "img": "https://drive.google.com/uc?export=view&id=12si7vGQyBTRsQ-7onZwZgyE8UmKlY9H8",
       "price": 140.0,
-      "price-tagline": "प्रति मात्रा, 500 ग्राम",
+      "price-tagline": "प्रति इकाई, 500 ग्राम",
       "tags": [
-        "tea",
-        "chai",
-        "red label",
-        "red"
-      ]
+        "चाय",
+        "चाय",
+        "रेड लेबल",
+        "लाल",
+        "पेय पदार्थ"
+      ],
+      "quantity": 1,
+      "category": "पेय पदार्थ"
     },
     {
       "id": 10,
@@ -405,80 +490,98 @@
       "description": "इंस्टेंट कॉफी पाउडर",
       "img": "https://drive.google.com/uc?export=view&id=1GHT9_uhal6SIBn1lyhg3nDlFCLIumZsU",
       "price": 80.0,
-      "price-tagline": "प्रति मात्रा, 50 ग्राम",
+      "price-tagline": "प्रति इकाई, 50 ग्राम",
       "tags": [
-        "coffee",
-        "nescafe",
-        "instant"
-      ]
+        "कॉफी",
+        "नेसकैफे",
+        "इंस्टेंट",
+        "पेय पदार्थ"
+      ],
+      "quantity": 1,
+      "category": "पेय पदार्थ"
     },
     {
       "id": 11,
-      "name": "हाल्दीराम भुजिया",
-      "description": "मसालेदार नमकीन स्नैक",
+      "name": "हल्दीराम भुजिया",
+      "description": "मसालेदार नमकीन नाश्ता",
       "img": "https://drive.google.com/uc?export=view&id=1xE4jy12J9tjZINuSvhg5JduDJvglQDUJ",
       "price": 45.0,
-      "price-tagline": "प्रति मात्रा, 200 ग्राम",
+      "price-tagline": "प्रति इकाई, 200 ग्राम",
       "tags": [
-        "namkeen",
-        "snacks",
-        "haldiram"
-      ]
+        "नमकीन",
+        "नाश्ता",
+        "हल्दीराम",
+        "नाश्ते"
+      ],
+      "quantity": 1,
+      "category": "नाश्ते"
     },
     {
       "id": 12,
-      "name": "डेटॉल हैंडवॉश",
-      "description": "तरल हैंडवॉश रिफिल",
+      "name": "डेटोल हैंडवॉश",
+      "description": "तरल हैंडवॉश रीफिल",
       "img": "https://drive.google.com/uc?export=view&id=1QlcEB-YU0h3xsoxwkGcSITu9wiM6ZfDS",
       "price": 85.0,
-      "price-tagline": "प्रति मात्रा, 750 मिली",
+      "price-tagline": "प्रति इकाई, 750 मिलीलीटर",
       "tags": [
-        "dettol",
-        "handwash",
-        "soap",
-        "shabu",
-        "habu"
-      ]
+        "डेटोल",
+        "हैंडवॉश",
+        "साबुन",
+        "शाबु",
+        "हाबु",
+        "व्यक्तिगत देखभाल"
+      ],
+      "quantity": 1,
+      "category": "व्यक्तिगत देखभाल"
     },
     {
       "id": 13,
-      "name": "कॉम्फर्ट फैब्रिक कंडीशनर",
-      "description": "वॉश के बाद फैब्रिक सॉफ्टनर",
+      "name": "कम्फर्ट फैब्रिक कंडीशनर",
+      "description": "वाश के बाद कपड़ों के लिए सॉफ्टनर",
       "img": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
       "price": 190.0,
-      "price-tagline": "प्रति मात्रा, 860 मिली",
+      "price-tagline": "प्रति इकाई, 860 मिलीलीटर",
       "tags": [
-        "comfort",
-        "fabric",
-        "softener"
-      ]
+        "कम्फर्ट",
+        "फैब्रिक",
+        "सॉफ्टनर",
+        "लॉन्ड्री"
+      ],
+      "quantity": 1,
+      "category": "लॉन्ड्री"
     },
     {
       "id": 14,
       "name": "लिज़ोल फ्लोर क्लीनर",
-      "description": "फर्श को साफ और कीटाणुरहित करता है",
+      "description": "फर्श की सफाई और कीटाणुशोधन",
       "img": "https://drive.google.com/uc?export=view&id=1m6f_aM4QxV8lEH9rUDb2plketKlxqDGC",
       "price": 95.0,
-      "price-tagline": "प्रति मात्रा, 500 मिली",
+      "price-tagline": "प्रति इकाई, 500 मिलीलीटर",
       "tags": [
-        "floor",
-        "cleaner",
-        "lizol"
-      ]
+        "फर्श",
+        "क्लीनर",
+        "लिज़ोल",
+        "घर की सफाई"
+      ],
+      "quantity": 1,
+      "category": "घर की सफाई"
     },
     {
       "id": 15,
-      "name": "किसान टोमैटो केचप",
-      "description": "क्लासिक टोमैटो सॉस",
+      "name": "किसान टमाटर केचप",
+      "description": "क्लासिक टमाटर सॉस",
       "img": "https://drive.google.com/uc?export=view&id=1Qwp-IJl7B4LJ5l3umJONk9izbVbvHCk3",
       "price": 60.0,
-      "price-tagline": "प्रति मात्रा, 500 ग्राम",
+      "price-tagline": "प्रति इकाई, 500 ग्राम",
       "tags": [
-        "ketchup",
-        "sauce",
-        "kissan",
-        "shosh"
-      ]
+        "केचप",
+        "सॉस",
+        "किसान",
+        "शोष",
+        "मसाले और कंडिमेंट्स"
+      ],
+      "quantity": 1,
+      "category": "मसाले और कंडिमेंट्स"
     },
     {
       "id": 16,
@@ -486,67 +589,81 @@
       "description": "टॉप लोड डिटर्जेंट पाउडर",
       "img": "https://drive.google.com/uc?export=view&id=1AOM6TuDIHh7NSxmDwgCBfE9Op4hTa0Bo",
       "price": 240.0,
-      "price-tagline": "प्रति मात्रा, 2 किग्रा",
+      "price-tagline": "प्रति इकाई, 2 किलो",
       "tags": [
-        "detergent",
-        "surf",
-        "excel"
-      ]
+        "डिटर्जेंट",
+        "सर्फ",
+        "एक्सेल",
+        "लॉन्ड्री"
+      ],
+      "quantity": 1,
+      "category": "लॉन्ड्री"
     },
     {
       "id": 17,
-      "name": "गुड डे कुकीज़",
-      "description": "बटर कुकीज़",
+      "name": "गुड डे कुकीज",
+      "description": "मक्खन कुकीज",
       "img": "https://drive.google.com/uc?export=view&id=1KFrIvM0NWrk0GQB6HrZ240XlI632NL5i",
       "price": 30.0,
-      "price-tagline": "प्रति मात्रा, 200 ग्राम",
+      "price-tagline": "प्रति इकाई, 200 ग्राम",
       "tags": [
-        "cookies",
-        "biscuits",
-        "good day"
-      ]
+        "कुकीज",
+        "बिस्कुट",
+        "गुड डे",
+        "नाश्ते"
+      ],
+      "quantity": 1,
+      "category": "नाश्ते"
     },
     {
       "id": 18,
       "name": "मूंग दाल",
-      "description": "पीली छिलके वाली दाल",
+      "description": "छिली हुई पीली दाल",
       "img": "https://drive.google.com/uc?export=view&id=1qckdwJSqduuzdehThrDiynz_NFDSUuY1",
       "price": 95.0,
-      "price-tagline": "प्रति मात्रा, 1 किग्रा",
+      "price-tagline": "प्रति इकाई, 1 किलो",
       "tags": [
-        "dal",
-        "moong",
-        "pulses",
-        "mung",
-        "mung dal"
-      ]
+        "दाल",
+        "मूंग",
+        "दालें",
+        "मूंग दाल",
+        "अनाज और दालें"
+      ],
+      "quantity": 1,
+      "category": "अनाज और दालें"
     },
     {
       "id": 19,
       "name": "बासमती चावल",
-      "description": "प्रीमियम लंबे दाने वाले चावल",
+      "description": "प्रिमियम लंबा अनाज चावल",
       "img": "https://drive.google.com/uc?export=view&id=1R0RmpIhD7pvZJD64jPv4aVJDGKSgG-kX",
       "price": 120.0,
-      "price-tagline": "प्रति मात्रा, 1 किग्रा",
+      "price-tagline": "प्रति इकाई, 1 किलो",
       "tags": [
-        "rice",
-        "basmati",
-        "grains",
-        "chokha"
-      ]
+        "चावल",
+        "बासमती",
+        "अनाज",
+        "चोखा",
+        "अनाज और दालें"
+      ],
+      "quantity": 1,
+      "category": "अनाज और दालें"
     },
     {
       "id": 20,
       "name": "रियल फ्रूट जूस",
-      "description": "मिक्स्ड फ्रूट जूस",
+      "description": "मिक्स फ्रूट जूस",
       "img": "https://drive.google.com/uc?export=view&id=1Ro-ekEaVeAOfLN8Ke-1wX_gxV6GnUp4N",
       "price": 110.0,
-      "price-tagline": "प्रति मात्रा, 1 लीटर",
+      "price-tagline": "प्रति इकाई, 1 लीटर",
       "tags": [
-        "juice",
-        "real",
-        "fruit"
-      ]
+        "जूस",
+        "रियल",
+        "फल",
+        "पेय पदार्थ"
+      ],
+      "quantity": 1,
+      "category": "पेय पदार्थ"
     }
   ],
   "gujrati": [
@@ -556,273 +673,320 @@
       "description": "નેસ્લે, ઇન્સ્ટન્ટ નૂડલ્સ",
       "img": "https://drive.google.com/uc?export=view&id=1YIIbYf2pibS4X6Fm8EAoGEFZ-2H2mWFx",
       "price": 14.0,
-      "price-tagline": "પ્રતિ જથ્થો, 48 ગ્રામ",
+      "price-tagline": "દર એક, 48ગ્રા",
       "tags": [
-        "maggi",
-        "meggi",
-        "maggie",
-        "noodles",
-        "nudal"
-      ]
+        "મેગી",
+        "મેગી",
+        "નૂડલ્સ",
+        "નુડલ",
+        "ઇન્સ્ટન્ટ ફૂડ"
+      ],
+      "quantity": 1,
+      "category": "ઇન્સ્ટન્ટ ફૂડ"
     },
     {
       "id": 2,
       "name": "અમૂલ ગોલ્ડ",
-      "description": "અમૂલ, વધુ ચરબીવાળું શુદ્ધ દૂધ",
+      "description": "અમૂલ, શુદ્ધ દૂધ ઉચ્ચ ચરબી સાથે",
       "img": "https://drive.google.com/uc?export=view&id=1jmZT2ll43UrQ97VGIZK2XbEmhYKhriAT",
       "price": 36.0,
-      "price-tagline": "પ્રતિ જથ્થો, 500 મિલી",
+      "price-tagline": "દર એક, 500મિ.લી.",
       "tags": [
-        "milk",
-        "dudh",
-        "amul gold",
-        "gold"
-      ]
+        "દૂધ",
+        "અમૂલ ગોલ્ડ",
+        "ગોલ્ડ",
+        "ડેરી"
+      ],
+      "quantity": 1,
+      "category": "ડેરી"
     },
     {
       "id": 3,
       "name": "ટાટા મીઠું",
-      "description": "રાંધવા માટે આયોડિનયુક્ત મીઠું",
+      "description": "રસોડામાં વાપરવા માટે આયોડાઇઝડ મીઠું",
       "img": "https://drive.google.com/uc?export=view&id=1pqYmyT-miryMA7QguWPekizcMwwcBcFb",
       "price": 20.0,
-      "price-tagline": "પ્રતિ જથ્થો, 1 કિગ્રા",
+      "price-tagline": "દર એક, 1કિગ્રા",
       "tags": [
-        "salt",
-        "namak",
-        "tata",
-        "mithu"
-      ]
+        "મીઠું",
+        "ટાટા",
+        "મીઠુ",
+        "મસાલા અને શણગલા"
+      ],
+      "quantity": 1,
+      "category": "મસાલા અને શણગલા"
     },
     {
       "id": 4,
       "name": "ફોર્ચ્યુન તેલ",
-      "description": "સફાઈ કરેલું સૂર્યમુખી તેલ",
+      "description": "શુદ્ધ સનફ્લાવર તેલ",
       "img": "https://drive.google.com/uc?export=view&id=1nxHrEX1UktkEfwupWdcKHIhwMog7VAwv",
       "price": 130.0,
-      "price-tagline": "પ્રતિ જથ્થો, 1 લીટર",
+      "price-tagline": "દર એક, 1 લિટર",
       "tags": [
-        "oil",
-        "sunflower",
-        "fortune"
-      ]
+        "તેલ",
+        "સનફ્લાવર",
+        "ફોર્ચ્યુન",
+        "રસોડાના આવશ્યક વસ્તુઓ"
+      ],
+      "quantity": 1,
+      "category": "રસોડાના આવશ્યક વસ્તુઓ"
     },
     {
       "id": 5,
       "name": "આશિર્વાદ આટા",
-      "description": "સમગ્ર ઘઉંનો લોટ",
+      "description": "પૂર્ણ ઘઉંનું લોટ",
       "img": "https://drive.google.com/uc?export=view&id=1uIelN9mHC5mosNARqBf7H55M3cBD8uP6",
       "price": 250.0,
-      "price-tagline": "પ્રતિ જથ્થો, 5 કિગ્રા",
+      "price-tagline": "દર એક, 5કિગ્રા",
       "tags": [
-        "atta",
-        "wheat",
-        "flour"
-      ]
+        "આટા",
+        "ઘઉં",
+        "લોટ",
+        "અનાજ અને લોટ"
+      ],
+      "quantity": 1,
+      "category": "અનાજ અને લોટ"
     },
     {
       "id": 6,
       "name": "કોલગેટ ટૂથપેસ્ટ",
-      "description": "દાંત સાફ કરવાનું ક્રિમ ટૂથપેસ્ટ",
+      "description": "દાંત માટે ક્રીમ ટૂથપેસ્ટ",
       "img": "https://drive.google.com/uc?export=view&id=1gzG4EoOAUq3BKct72SH05jOdBjoIVslf",
       "price": 45.0,
-      "price-tagline": "પ્રતિ જથ્થો, 100 ગ્રામ",
+      "price-tagline": "દર એક, 100 ગ્રામ",
       "tags": [
-        "toothpaste",
-        "colgate",
-        "dental"
-      ]
+        "ટૂથપેસ્ટ",
+        "કોલગેટ",
+        "દાંત",
+        "વ્યક્તિગત સંભાળ"
+      ],
+      "quantity": 1,
+      "category": "વ્યક્તિગત સંભાળ"
     },
     {
       "id": 7,
-      "name": "ડવ સાબુ",
-      "description": "આર્દ્રતા જાળવી રાખતો બ્યુટી સાબુ",
+      "name": "ડવ સોપ",
+      "description": "મોઈશ્ચરાઇઝિંગ બ્યૂટી સોપ",
       "img": "https://drive.google.com/uc?export=view&id=1E4wc4ynV55W1Diz3jL8Da2LiHX-Rhjad",
       "price": 38.0,
-      "price-tagline": "પ્રતિ જથ્થો, 75 ગ્રામ",
+      "price-tagline": "દર એક, 75 ગ્રામ",
       "tags": [
-        "soap",
-        "dove",
-        "beauty",
-        "shabu",
-        "habu"
-      ]
+        "સોપ",
+        "ડવ",
+        "સુંદરતા",
+        "વ્યક્તિગત સંભાળ"
+      ],
+      "quantity": 1,
+      "category": "વ્યક્તિગત સંભાળ"
     },
     {
       "id": 8,
-      "name": "પાર્લે-જી બિસ્કિટ",
-      "description": "ગ્લુકોઝ બિસ્કિટ પેક",
+      "name": "પારલે-જી બિસ્કિટ્સ",
+      "description": "ગ્લૂકોઝ બિસ્કિટ્સ પેક",
       "img": "https://drive.google.com/uc?export=view&id=1LZLRAiYguqeF7nptP_-T6uspw4lW1eiw",
       "price": 10.0,
-      "price-tagline": "પ્રતિ જથ્થો, 100 ગ્રામ",
+      "price-tagline": "દર એક, 100 ગ્રામ",
       "tags": [
-        "biscuits",
-        "parle",
-        "snacks"
-      ]
+        "બિસ્કિટ્સ",
+        "પારલે",
+        "સ્નેક્સ",
+        "નાસ્તા"
+      ],
+      "quantity": 1,
+      "category": "નાસ્તા"
     },
     {
       "id": 9,
-      "name": "રેડ લેબલ ચા",
-      "description": "બ્રૂક બોન્ડ ઢીળી ચા",
+      "name": "રેડ લેબલ ટી",
+      "description": "બ્રૂક બોન્ડ લૂઝ ટી",
       "img": "https://drive.google.com/uc?export=view&id=12si7vGQyBTRsQ-7onZwZgyE8UmKlY9H8",
       "price": 140.0,
-      "price-tagline": "પ્રતિ જથ્થો, 500 ગ્રામ",
+      "price-tagline": "દર એક, 500 ગ્રામ",
       "tags": [
-        "tea",
-        "chai",
-        "red label",
-        "red"
-      ]
+        "ચા",
+        "રેડ લેબલ",
+        "ચાઇ",
+        "પેય"
+      ],
+      "quantity": 1,
+      "category": "પેય"
     },
     {
       "id": 10,
       "name": "નેસ્કેફે ક્લાસિક",
-      "description": "તુરંત બનાવાતી કોફી પાવડર",
+      "description": "ઇન્સ્ટન્ટ કોફી પાવડર",
       "img": "https://drive.google.com/uc?export=view&id=1GHT9_uhal6SIBn1lyhg3nDlFCLIumZsU",
       "price": 80.0,
-      "price-tagline": "પ્રતિ જથ્થો, 50 ગ્રામ",
+      "price-tagline": "દર એક, 50 ગ્રામ",
       "tags": [
-        "coffee",
-        "nescafe",
-        "instant"
-      ]
+        "કોફી",
+        "નેસ્કેફે",
+        "ઇન્સ્ટન્ટ",
+        "પેય"
+      ],
+      "quantity": 1,
+      "category": "પેય"
     },
     {
       "id": 11,
-      "name": "હાલદીરામ ભુજિયા",
+      "name": "હલદીરામ ભુજિયા",
       "description": "મસાલેદાર નમકીન નાસ્તો",
       "img": "https://drive.google.com/uc?export=view&id=1xE4jy12J9tjZINuSvhg5JduDJvglQDUJ",
       "price": 45.0,
-      "price-tagline": "પ્રતિ જથ્થો, 200 ગ્રામ",
+      "price-tagline": "દર એક, 200 ગ્રામ",
       "tags": [
-        "namkeen",
-        "snacks",
-        "haldiram"
-      ]
+        "નમકીન",
+        "નાસ્તા",
+        "હલદીરામ"
+      ],
+      "quantity": 1,
+      "category": "નાસ્તા"
     },
     {
       "id": 12,
       "name": "ડેટોલ હેન્ડવોશ",
-      "description": "તરલ હેન્ડવોશ રિફિલ",
+      "description": "લિક્વિડ હેન્ડવોશ રિફિલ",
       "img": "https://drive.google.com/uc?export=view&id=1QlcEB-YU0h3xsoxwkGcSITu9wiM6ZfDS",
       "price": 85.0,
-      "price-tagline": "પ્રતિ જથ્થો, 750 મિલી",
+      "price-tagline": "દર એક, 750મિ.લી.",
       "tags": [
-        "dettol",
-        "handwash",
-        "soap",
-        "shabu",
-        "habu"
-      ]
+        "ડેટોલ",
+        "હેન્ડવોશ",
+        "સોપ",
+        "વ્યક્તિગત સંભાળ"
+      ],
+      "quantity": 1,
+      "category": "વ્યક્તિગત સંભાળ"
     },
     {
       "id": 13,
-      "name": "કોમ્ફર્ટ ફેબ્રિક કન્ડિશનર",
-      "description": "ધોધ પછીનો કાપડ નરમ બનાવનાર",
+      "name": "કમફોર્ટ ફેબ્રિક કન્ડિશનર",
+      "description": "ધોવાય પછીનો ફેબ્રિક સોફ્ટનર",
       "img": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Square_200x200.png",
       "price": 190.0,
-      "price-tagline": "પ્રતિ જથ્થો, 860 મિલી",
+      "price-tagline": "દર એક, 860મિ.લી.",
       "tags": [
-        "comfort",
-        "fabric",
-        "softener"
-      ]
+        "કમફોર્ટ",
+        "ફેબ્રિક",
+        "સોફ્ટનર",
+        "ધોવાનું સામાન"
+      ],
+      "quantity": 1,
+      "category": "ધોવાનું સામાન"
     },
     {
       "id": 14,
       "name": "લિઝોલ ફ્લોર ક્લીનર",
-      "description": "ફર્સી સાફ કરે અને જીવાણુમુક્ત કરે",
+      "description": "ફ્લોરસ સાફ અને ડિસઇન્ફેક્ટ કરે છે",
       "img": "https://drive.google.com/uc?export=view&id=1m6f_aM4QxV8lEH9rUDb2plketKlxqDGC",
       "price": 95.0,
-      "price-tagline": "પ્રતિ જથ્થો, 500 મિલી",
+      "price-tagline": "દર એક, 500મિ.લી.",
       "tags": [
-        "floor",
-        "cleaner",
-        "lizol"
-      ]
+        "ફ્લોર",
+        "ક્લીનર",
+        "લિઝોલ",
+        "ઘર સાફસફાઈ"
+      ],
+      "quantity": 1,
+      "category": "ઘર સાફસફાઈ"
     },
     {
       "id": 15,
-      "name": "કિસાન ટોમેટો કેચઅપ",
-      "description": "પરંપરાગત ટોમેટો સોસ",
+      "name": "કિસાન ટામેટો કેટચપ",
+      "description": "ક્લાસિક ટામેટો સોસ",
       "img": "https://drive.google.com/uc?export=view&id=1Qwp-IJl7B4LJ5l3umJONk9izbVbvHCk3",
       "price": 60.0,
-      "price-tagline": "પ્રતિ જથ્થો, 500 ગ્રામ",
+      "price-tagline": "દર એક, 500 ગ્રામ",
       "tags": [
-        "ketchup",
-        "sauce",
-        "kissan",
-        "shosh"
-      ]
+        "કેટચપ",
+        "સોસ",
+        "કિસાન",
+        "મસાલા અને શણગલા"
+      ],
+      "quantity": 1,
+      "category": "મસાલા અને શણગલા"
     },
     {
       "id": 16,
       "name": "સર્ફ એક્સેલ મેટિક",
-      "description": "ટોપ લોડ માટે ડિટર્જન્ટ પાવડર",
+      "description": "ટોપ લોડ ડિટર્જન્ટ પાવડર",
       "img": "https://drive.google.com/uc?export=view&id=1AOM6TuDIHh7NSxmDwgCBfE9Op4hTa0Bo",
       "price": 240.0,
-      "price-tagline": "પ્રતિ જથ્થો, 2 કિગ્રા",
+      "price-tagline": "દર એક, 2 કિગ્રા",
       "tags": [
-        "detergent",
-        "surf",
-        "excel"
-      ]
+        "ડિટર્જન્ટ",
+        "સર્ફ",
+        "એક્સેલ",
+        "ધોવાનું સામાન"
+      ],
+      "quantity": 1,
+      "category": "ધોવાનું સામાન"
     },
     {
       "id": 17,
-      "name": "ગુડ ડે કૂકીઝ",
-      "description": "માખણયુક્ત કૂકીઝ",
+      "name": "ગૂડ ડે કૂકીઝ",
+      "description": "બટર કૂકીઝ",
       "img": "https://drive.google.com/uc?export=view&id=1KFrIvM0NWrk0GQB6HrZ240XlI632NL5i",
       "price": 30.0,
-      "price-tagline": "પ્રતિ જથ્થો, 200 ગ્રામ",
+      "price-tagline": "દર એક, 200 ગ્રામ",
       "tags": [
-        "cookies",
-        "biscuits",
-        "good day"
-      ]
+        "કૂકીઝ",
+        "બિસ્કિટ્સ",
+        "ગૂડ ડે",
+        "નાસ્તા"
+      ],
+      "quantity": 1,
+      "category": "નાસ્તા"
     },
     {
       "id": 18,
-      "name": "મૂંગદાળ",
-      "description": "પીળા છોલાવાળા મૂંગદાળ",
+      "name": "મૂંગ દાળ",
+      "description": "ટૂકડી કરેલી પીળી દાળ",
       "img": "https://drive.google.com/uc?export=view&id=1qckdwJSqduuzdehThrDiynz_NFDSUuY1",
       "price": 95.0,
-      "price-tagline": "પ્રતિ જથ્થો, 1 કિગ્રા",
+      "price-tagline": "દર એક, 1 કિગ્રા",
       "tags": [
-        "dal",
-        "moong",
-        "pulses",
-        "mung",
-        "mung dal"
-      ]
+        "દાળ",
+        "મૂંગ",
+        "પલ્સ",
+        "મૂંગ દાળ",
+        "અનાજ અને દાળ"
+      ],
+      "quantity": 1,
+      "category": "અનાજ અને દાળ"
     },
     {
       "id": 19,
       "name": "બાસમતી ચોખા",
-      "description": "ઉત્તમ લાંબા દાણા વાળા ચોખા",
+      "description": "પ્રિમિયમ લાંબા દાણા વાળા ચોખા",
       "img": "https://drive.google.com/uc?export=view&id=1R0RmpIhD7pvZJD64jPv4aVJDGKSgG-kX",
       "price": 120.0,
-      "price-tagline": "પ્રતિ જથ્થો, 1 કિગ્રા",
+      "price-tagline": "દર એક, 1 કિગ્રા",
       "tags": [
-        "rice",
-        "basmati",
-        "grains",
-        "chokha"
-      ]
+        "ચોખા",
+        "બાસમતી",
+        "અનાજ",
+        "અનાજ અને દાળ"
+      ],
+      "quantity": 1,
+      "category": "અનાજ અને દાળ"
     },
     {
       "id": 20,
-      "name": "રિયલ ફ્રૂટ જ્યૂસ",
-      "description": "મિક્સ ફળોનું જ્યૂસ",
+      "name": "રીઅલ ફળનો રસ",
+      "description": "મિશ્ર ફળનો રસ",
       "img": "https://drive.google.com/uc?export=view&id=1Ro-ekEaVeAOfLN8Ke-1wX_gxV6GnUp4N",
       "price": 110.0,
-      "price-tagline": "પ્રતિ જથ્થો, 1 લીટર",
+      "price-tagline": "દર એક, 1 લિટર",
       "tags": [
-        "juice",
-        "real",
-        "fruit"
-      ]
+        "રસ",
+        "ફળ",
+        "રીઅલ",
+        "પેય"
+      ],
+      "quantity": 1,
+      "category": "પેય"
     }
   ]
 }
-
